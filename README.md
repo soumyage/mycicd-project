@@ -10,7 +10,7 @@ Clone the repo and double-click `index.html`. No installs, no server.
 
 Open `tests/tests.html`. It shows PASS/FAIL for each test.
 
-## Continuous Integration
+## Continuous Integration.
 
 `.github/workflows/ci.yml` runs on every push and pull request. It:
 
